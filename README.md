@@ -178,7 +178,7 @@ Fex:
 
 ## REST vs SOAP , GraphQL
 
-Rest html üzerinde çalışır SOAP ise XML üzerinden ayrıca REST daha rahattır kullanım ve anlama olarak.
+Rest HTTP üzerinde çalışır SOAP ise XML üzerinden ayrıca REST daha rahattır kullanım ve anlama olarak.
 
 GraphQL ise bir sorgu dilidir istemcinin sadece ihtiyacı duyduğu veriyi talep etmesini sağlar.
 
@@ -342,7 +342,7 @@ app.Use*() / app.Map* = () Middleware ve endpoint
 
 app.Run()
 
-Tek dosyalı sıralı yürütme oldu.??????????
+Tek dosyalı sıralı yürütme oldu.
 
 ## Katmanlı Mimari: Küçük çaplı projeler için.
 
@@ -412,7 +412,7 @@ DbContext  SaveChanges() yazılana kadar hiç birşeyi veri tabanına yazmaz o s
 
 - Detached -> Takip edilmiyor
 
-???
+
 
 ## LINQ: C# dilinde SQL sorgularını programlama dilinden çıkmadan yazmamızı sağlar.
 
