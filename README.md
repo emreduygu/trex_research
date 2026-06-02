@@ -421,8 +421,9 @@ LINQ iki farklı yazıma sahiptir:
 - Query Syntax
 <img width="553" height="237" alt="image" src="https://github.com/user-attachments/assets/55bbfa40-9c7a-49c0-a698-75ed67a04f51" />
 
-																			Method Syntax																												<img width="477" height="276" alt="image" src="https://github.com/user-attachments/assets/42e37241-4ffa-42fb-b2c7-9b86042f9f4f" />
-																																																		En çok kullanılan LINQ ifadeleri: 
+Method Syntax																											
+<img width="477" height="276" alt="image" src="https://github.com/user-attachments/assets/42e37241-4ffa-42fb-b2c7-9b86042f9f4f" />
+En çok kullanılan LINQ ifadeleri: 
 
 - Where() = belirtilen bir koşula uyan verileri filtreler
 
