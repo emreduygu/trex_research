@@ -359,6 +359,7 @@ Tek dosyalı sıralı yürütme oldu.??????????
 - Service Pattern : İş katmanında yer alır presentation katmanındaki verilerle business kurallarını çalıştırır ve data accessle işlemleri tamamlar.
 
 - Repository Pattern : Data access te yer alır işlemleri soyutlar ve business layerın bağımsız çalışmasını sağlar.
+<img width="1057" height="832" alt="image" src="https://github.com/user-attachments/assets/ddceda05-2ba3-4cc3-850e-c7b5d5ed9952" />
 
 ## Clean Mimari: Kurumsal işler için.
 
@@ -379,6 +380,7 @@ Clean Architecture'ın kalbidir. Bağımlılıklar her zaman içe (Domain/Applic
 - Dış katmanlar, iç katmanlardaki Interface'leri implemente eder.
 
 - Bu sayede veritabanı teknolojisini  veya UI framework'ünü değiştirmek, çekirdek iş kurallarınızı etkilemez.
+<img width="1097" height="812" alt="image" src="https://github.com/user-attachments/assets/0e7a86cc-4a15-4efe-8d61-af2ae9d5acd8" />
 
 # 5.Veritabanı ve ORM
 
